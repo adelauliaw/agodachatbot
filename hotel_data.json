@@ -1,0 +1,81 @@
+{
+    "hotels": [
+      {
+        "nama": "ROYAL HOTEL",
+        "jenis_kamar": [
+          {"nama": "COM", "harga": null}
+        ]
+      },
+      {
+        "nama": "Oakwood PREMIER COZMO JAKARTA",
+        "jenis_kamar": [
+          {"nama": "1DLX", "harga": 1900000},
+          {"nama": "2DLX", "harga": 2527470},
+          {"nama": "EXET", "harga": 4210741},
+          {"nama": "TEXE", "harga": 2417584},
+          {"nama": "1EXE", "harga": 2417584},
+          {"nama": "SDLX", "harga": 1699632},
+          {"nama": "210", "harga": 5128200},
+          {"nama": "3106", "harga": 2417584},
+          {"nama": "3105", "harga": 2417584},
+          {"nama": "3003", "harga": 1699632},
+          {"nama": "802", "harga": 4042609},
+          {"nama": "702", "harga": 1900000},
+          {"nama": "803", "harga": 1869595},
+          {"nama": "508", "harga": 3406590},
+          {"nama": "2DLX", "harga": 2527470},
+          {"nama": "906", "harga": 3076920},
+          {"nama": "808", "harga": 1953600},
+          {"nama": "807", "harga": 1614650},
+          {"nama": "1510", "harga": 2974358},
+          {"nama": "3002", "harga": 1746030},
+          {"nama": "910", "harga": 2039558},
+          {"nama": "2006", "harga": 1900000},
+          {"nama": "2208", "harga": 2417580},
+          {"nama": "1806", "harga": 2124540},
+          {"nama": "1206", "harga": 1699632},
+          {"nama": "802", "harga": null},
+          {"nama": "702", "harga": null},
+          {"nama": "3102", "harga": null},
+          {"nama": "1510", "harga": null},
+          {"nama": "1103", "harga": null},
+          {"nama": "1205", "harga": null},
+          {"nama": "2107", "harga": null},
+          {"nama": "1901", "harga": null},
+          {"nama": "508", "harga": null},
+          {"nama": "910", "harga": null},
+          {"nama": "210", "harga": null},
+          {"nama": "3102", "harga": null},
+          {"nama": "1510", "harga": null},
+          {"nama": "1103", "harga": null},
+          {"nama": "1205", "harga": null},
+          {"nama": "2107", "harga": null},
+          {"nama": "1901", "harga": null}
+        ]
+      },
+      {
+        "nama": "THE ASCOTT",
+        "jenis_kamar": [
+          {"nama": "VRDD", "harga": 2304000},
+          {"nama": "VRTT", "harga": 2300000},
+          {"nama": "VRTH", "harga": 2000000},
+          {"nama": "VRET", "harga": 2618000},
+          {"nama": "VROD", "harga": 1000000},
+          {"nama": "VRDO", "harga": 1300000},
+          {"nama": "VRTMH", "harga": 2394000},
+          {"nama": "VRTMT", "harga": 1553800}
+        ]
+      },
+      {
+        "nama": "HARRIS HOTEL SEMINYAK",
+        "jenis_kamar": [
+          {"nama": "HRD", "harga": 648000},
+          {"nama": "HUPAD", "harga": 791775},
+          {"nama": "HUPAT", "harga": 898875},
+          {"nama": "HUT", "harga": 612000},
+          {"nama": "HRT", "harga": 550000},
+          {"nama": "HUD", "harga": 800000}
+        ]
+      }
+    ]
+  }
